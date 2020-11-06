@@ -1,0 +1,38 @@
+body {
+    background: url(alexis-antoine-7L5398cO3Zk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.opacity-div {
+   
+    background-color: rgba(0,0,0,0.5);
+    height: 500px;
+    width: 800px;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 40px;
+    
+}
+
+
+.information {
+    background-color: black;
+    height: 400px;
+    width: 450px;
+    color: white;
+}
+
+
+.info-wrapper {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;
+}
+
+
+
+
+
