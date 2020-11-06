@@ -5,7 +5,7 @@ var person = {
     lastName : "Mikutavicius",
     language : "Svenska/Engelska/Litausika",
     age: 25,
-    hobbies: "Kampsport/Böcker/Datorspelr",
+    hobbies: "Kampsport/Böcker/Datorspel",
     gatan: "Tranemansgatan 21B",
     stad: "Helsingborg",
 
