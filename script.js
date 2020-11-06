@@ -48,7 +48,7 @@ var person = {
   };
   
   document.getElementById("name").innerHTML = person.namn + " " + person.efternamn;
-  document.getElementById("old").innerHTML = "Jag är :" + " " + person.age;
+  document.getElementById("old").innerHTML = "Jag är :" + " " + person.age + "år gammal";
   document.getElementById("stan").innerHTML = "Plats:" + " " + person.gatan + ", " + person.stad
   document.getElementById("sprak").innerHTML = "Talar:" + " " + person.lang
   document.getElementById("hobbies").innerHTML = "Hobbies :" + " " + person.hobb
